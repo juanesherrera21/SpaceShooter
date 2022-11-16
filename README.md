@@ -1,9 +1,9 @@
 # SpaceShooter
 repo para el proyecto de app moviles juego basado en galaga
-#WireFrames del proyecto
+# WireFrames del proyecto
 https://www.figma.com/file/0fj7dH8CXJY1wXebbmpn93/Juego?node-id=0%3A1
 
-#Evidencias
+# Evidencias
 ![imagen](https://user-images.githubusercontent.com/68380237/202103769-7825433b-5d78-4781-a643-4784a8429aa0.png)
 ![imagen](https://user-images.githubusercontent.com/68380237/202103801-d8eb9fec-9aad-4a32-9f40-c3f720391027.png)
 ![imagen](https://user-images.githubusercontent.com/68380237/202103824-40abaf37-321a-4332-b25b-30ccacb60689.png)
